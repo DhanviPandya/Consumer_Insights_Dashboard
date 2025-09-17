@@ -1,0 +1,51 @@
+Location,avg_prev_purchases,avg_rating,transactions
+Texas,21.4805,3.91,77
+Maine,22.6494,3.84,77
+Wisconsin,22.9600,3.89,75
+Oklahoma,22.9733,3.61,75
+Massachusetts,23.0139,3.72,72
+Kansas,23.3810,3.80,63
+Louisiana,23.4405,3.77,84
+Virginia,23.5065,3.71,77
+"West Virginia",23.5556,3.58,81
+"Rhode Island",23.5714,3.74,63
+"New Jersey",23.7612,3.77,67
+"North Dakota",23.7711,3.75,83
+Colorado,23.9733,3.73,75
+Connecticut,24.0000,3.69,78
+Idaho,24.2043,3.78,93
+"New York",24.2414,3.75,87
+California,24.4947,3.83,95
+"South Dakota",24.6000,3.68,70
+Vermont,24.6000,3.71,85
+Delaware,24.6279,3.80,86
+Washington,24.6986,3.81,73
+Nebraska,24.7586,3.73,87
+"North Carolina",24.7692,3.81,78
+Georgia,25.0759,3.62,79
+Ohio,25.1429,3.81,77
+Montana,25.2708,3.81,96
+Oregon,25.5135,3.76,74
+Indiana,25.8228,3.81,79
+Tennessee,25.9610,3.78,77
+"South Carolina",26.0000,3.76,76
+Mississippi,26.0125,3.76,80
+Nevada,26.0345,3.71,87
+"New Mexico",26.0370,3.73,81
+Florida,26.1324,3.68,68
+Minnesota,26.2159,3.75,88
+Kentucky,26.4177,3.75,79
+Maryland,26.5349,3.81,86
+Illinois,26.5978,3.64,92
+Michigan,26.9452,3.82,73
+Arkansas,27.0633,3.72,79
+"New Hampshire",27.0986,3.61,71
+Utah,27.1690,3.68,71
+Pennsylvania,27.4189,3.78,74
+Alabama,27.4494,3.78,89
+Iowa,27.6087,3.85,69
+Alaska,28.0972,3.80,72
+Missouri,28.1481,3.75,81
+Wyoming,28.2394,3.69,71
+Arizona,28.3692,3.69,65
+Hawaii,29.1692,3.67,65

@@ -1,0 +1,201 @@
+Location,Category,revenue,transactions
+Montana,Clothing,2768.00,45
+California,Clothing,2740.00,47
+Louisiana,Clothing,2562.00,44
+Minnesota,Clothing,2518.00,42
+Nevada,Clothing,2515.00,38
+Illinois,Clothing,2508.00,46
+Idaho,Clothing,2472.00,42
+Oklahoma,Clothing,2464.00,38
+Vermont,Clothing,2426.00,43
+Arkansas,Clothing,2413.00,37
+Pennsylvania,Clothing,2376.00,35
+Georgia,Clothing,2336.00,41
+Delaware,Clothing,2336.00,41
+Alabama,Clothing,2334.00,41
+"North Carolina",Clothing,2278.00,35
+"New York",Clothing,2254.00,36
+Oregon,Clothing,2234.00,37
+Alaska,Clothing,2229.00,33
+"North Dakota",Clothing,2206.00,34
+Indiana,Clothing,2206.00,37
+Massachusetts,Clothing,2189.00,34
+Wisconsin,Clothing,2157.00,37
+Washington,Clothing,2155.00,35
+Nebraska,Accessories,2147.00,37
+Nevada,Accessories,2130.00,32
+Arizona,Clothing,2129.00,32
+Missouri,Clothing,2123.00,37
+Utah,Clothing,2116.00,33
+Virginia,Clothing,2098.00,35
+Maine,Clothing,2041.00,34
+"Rhode Island",Clothing,2020.00,35
+Michigan,Clothing,2002.00,31
+Mississippi,Accessories,1986.00,32
+"South Carolina",Clothing,1947.00,36
+"New Mexico",Clothing,1925.00,29
+"West Virginia",Accessories,1907.00,31
+Connecticut,Clothing,1905.00,32
+"West Virginia",Clothing,1903.00,29
+Kentucky,Accessories,1898.00,34
+Ohio,Clothing,1888.00,34
+Mississippi,Clothing,1886.00,33
+Tennessee,Accessories,1863.00,27
+Tennessee,Clothing,1856.00,34
+Illinois,Accessories,1854.00,27
+Wyoming,Clothing,1850.00,31
+California,Accessories,1845.00,31
+Nebraska,Clothing,1840.00,30
+Maryland,Clothing,1828.00,34
+Texas,Clothing,1817.00,29
+Montana,Accessories,1797.00,28
+Hawaii,Clothing,1773.00,29
+Idaho,Accessories,1769.00,29
+"New York",Accessories,1753.00,29
+Colorado,Clothing,1748.00,32
+Alaska,Accessories,1719.00,26
+"New Mexico",Accessories,1706.00,29
+"South Dakota",Clothing,1698.00,28
+Kentucky,Clothing,1694.00,30
+"New Hampshire",Clothing,1687.00,28
+Florida,Clothing,1680.00,30
+"New Hampshire",Accessories,1670.00,29
+"South Dakota",Accessories,1655.00,25
+"New Jersey",Accessories,1623.00,26
+Missouri,Accessories,1612.00,27
+Texas,Accessories,1609.00,27
+Virginia,Accessories,1584.00,24
+Alabama,Accessories,1576.00,25
+Maryland,Accessories,1561.00,27
+Arkansas,Accessories,1555.00,26
+Pennsylvania,Accessories,1508.00,24
+Louisiana,Accessories,1495.00,27
+Iowa,Accessories,1490.00,23
+Delaware,Accessories,1486.00,28
+"North Dakota",Accessories,1483.00,24
+"North Carolina",Accessories,1482.00,25
+Colorado,Accessories,1454.00,24
+Kansas,Clothing,1425.00,26
+Iowa,Clothing,1410.00,23
+Washington,Accessories,1407.00,23
+Georgia,Accessories,1389.00,23
+Wyoming,Accessories,1388.00,23
+"South Carolina",Accessories,1357.00,22
+Connecticut,Accessories,1334.00,24
+Indiana,Accessories,1328.00,25
+Ohio,Footwear,1321.00,18
+Utah,Accessories,1307.00,21
+"New Jersey",Clothing,1299.00,25
+Ohio,Accessories,1296.00,22
+Arizona,Accessories,1270.00,20
+Florida,Accessories,1232.00,21
+Wisconsin,Accessories,1187.00,23
+Minnesota,Accessories,1160.00,25
+Massachusetts,Accessories,1132.00,18
+Vermont,Accessories,1125.00,20
+"Rhode Island",Accessories,1088.00,17
+Michigan,Accessories,1079.00,19
+Minnesota,Footwear,1073.00,17
+Oregon,Accessories,1041.00,18
+Hawaii,Accessories,1017.00,19
+Maine,Footwear,1013.00,17
+Michigan,Footwear,1000.00,15
+Kansas,Accessories,961.00,17
+Oklahoma,Accessories,955.00,18
+Maryland,Footwear,943.00,17
+Vermont,Footwear,942.00,15
+Virginia,Footwear,939.00,14
+Maine,Accessories,930.00,19
+Nebraska,Footwear,923.00,16
+Alabama,Footwear,914.00,15
+"North Dakota",Outerwear,907.00,14
+Iowa,Footwear,863.00,14
+Texas,Footwear,853.00,15
+"South Carolina",Footwear,847.00,12
+Georgia,Footwear,827.00,14
+Pennsylvania,Footwear,802.00,11
+Utah,Footwear,794.00,12
+"New Mexico",Footwear,791.00,14
+"West Virginia",Footwear,781.00,12
+"New York",Footwear,771.00,13
+Delaware,Footwear,769.00,14
+Missouri,Footwear,757.00,12
+Kansas,Footwear,754.00,14
+Massachusetts,Footwear,737.00,14
+Wisconsin,Footwear,732.00,12
+Washington,Footwear,716.00,10
+Oregon,Footwear,713.00,13
+Nevada,Footwear,713.00,12
+"North Carolina",Footwear,709.00,13
+Tennessee,Footwear,709.00,11
+Wyoming,Footwear,703.00,11
+Alaska,Footwear,693.00,9
+Idaho,Footwear,686.00,12
+Indiana,Footwear,670.00,10
+Illinois,Footwear,665.00,11
+Montana,Outerwear,664.00,11
+California,Footwear,662.00,11
+Idaho,Outerwear,660.00,10
+Colorado,Footwear,654.00,12
+Louisiana,Footwear,648.00,11
+"Rhode Island",Footwear,627.00,9
+"North Dakota",Footwear,624.00,11
+Hawaii,Outerwear,597.00,8
+"New Mexico",Outerwear,592.00,9
+Illinois,Outerwear,590.00,8
+Arkansas,Footwear,589.00,10
+Connecticut,Footwear,589.00,12
+Kentucky,Outerwear,588.00,10
+"West Virginia",Outerwear,583.00,9
+Mississippi,Footwear,565.00,9
+Montana,Footwear,555.00,12
+"New Jersey",Footwear,514.00,10
+"South Dakota",Footwear,492.00,9
+"New Hampshire",Footwear,483.00,7
+Oklahoma,Outerwear,481.00,10
+"New York",Outerwear,479.00,9
+Oklahoma,Footwear,476.00,9
+Arizona,Footwear,471.00,6
+Maryland,Outerwear,463.00,8
+Arizona,Outerwear,456.00,7
+Florida,Outerwear,452.00,9
+Michigan,Outerwear,452.00,8
+Indiana,Outerwear,451.00,7
+Mississippi,Outerwear,446.00,6
+Iowa,Outerwear,438.00,9
+Alabama,Outerwear,437.00,8
+Florida,Footwear,434.00,8
+Texas,Outerwear,433.00,6
+Maine,Outerwear,404.00,7
+Connecticut,Outerwear,398.00,10
+"South Dakota",Outerwear,391.00,8
+"New Hampshire",Outerwear,379.00,7
+Wyoming,Outerwear,368.00,6
+Vermont,Outerwear,367.00,7
+"New Jersey",Outerwear,366.00,6
+Colorado,Outerwear,366.00,7
+Hawaii,Footwear,365.00,9
+California,Outerwear,358.00,6
+Washington,Outerwear,345.00,5
+Tennessee,Outerwear,344.00,5
+Massachusetts,Outerwear,326.00,6
+Kansas,Outerwear,297.00,6
+"South Carolina",Outerwear,288.00,6
+"North Carolina",Outerwear,273.00,5
+Arkansas,Outerwear,271.00,6
+Nebraska,Outerwear,262.00,4
+Oregon,Outerwear,255.00,6
+Pennsylvania,Outerwear,240.00,4
+Minnesota,Outerwear,226.00,4
+Alaska,Outerwear,226.00,4
+Utah,Outerwear,226.00,5
+Kentucky,Footwear,222.00,5
+Virginia,Outerwear,221.00,4
+Missouri,Outerwear,199.00,5
+Delaware,Outerwear,167.00,3
+Nevada,Outerwear,156.00,5
+Ohio,Outerwear,144.00,3
+Louisiana,Outerwear,143.00,2
+"Rhode Island",Outerwear,136.00,2
+Wisconsin,Outerwear,120.00,3
+Georgia,Outerwear,93.00,1
