@@ -30,7 +30,7 @@ for key, filename in files.items():
     dfs[key] = pd.read_csv(path)
     print(f"Loaded {filename} → shape: {dfs[key].shape}")
 
-# === 1️⃣ Locate Demand & White Space ===
+# === 1️ Locate Demand & White Space ===
 # A. Revenue by Location vs Category Heatmap
 rev_df = dfs["revenue_by_location"]
 pivot_rev = rev_df.pivot_table(index="Location", columns="Category", values="revenue", aggfunc="sum", fill_value=0)
@@ -50,7 +50,7 @@ plt.tight_layout()
 plt.savefig(os.path.join(plot_dir, "bar_age_gender.png"))
 plt.close()
 
-# === 2️⃣ Understand Seasonal & Regional Behavior ===
+# === 2️ Understand Seasonal & Regional Behavior ===
 # A. Seasonal Purchase Trends by Category Line Chart
 seasonal_df = dfs["seasonal_category_trends"]
 for cat in seasonal_df["Category"].unique():
@@ -84,7 +84,7 @@ plt.tight_layout()
 plt.savefig(os.path.join(plot_dir, "stackedbar_size_prefs.png"))
 plt.close()
 
-# === 3️⃣ Assess Competitive Pressure ===
+# === 3️ Assess Competitive Pressure ===
 # A. Discount vs Promo Effectiveness Heatmap
 discount_df = dfs["discount_promo_summary"]
 pivot_discount = discount_df.pivot_table(index="DiscountApplied", columns="PromoCodeUsed", values="avg_order_value", fill_value=0)
@@ -114,7 +114,7 @@ plt.tight_layout()
 plt.savefig(os.path.join(plot_dir, "bar_payment_method.png"))
 plt.close()
 
-# === 4️⃣ Advanced / Strategic Insights ===
+# === 4️ Advanced / Strategic Insights ===
 # A. Customer Lifetime Value Segments Scatter
 clv_df = dfs["clv_segments"]
 plt.scatter(clv_df["transactions"], clv_df["total_spent"], c=clv_df["prev_purchases"], cmap="viridis", alpha=0.6)
@@ -146,4 +146,4 @@ plt.tight_layout()
 plt.savefig(os.path.join(plot_dir, "heatmap_cross_category.png"))
 plt.close()
 
-print(f"✅ All plots saved to {plot_dir}")
+print(f" All plots saved to {plot_dir}")
